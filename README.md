@@ -56,4 +56,7 @@ The game uses **custom LCD bitmaps** to represent the rabbit and obstacles, maki
 - Designed entirely within the limitations of a 16x2 LCD
 
 ---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
